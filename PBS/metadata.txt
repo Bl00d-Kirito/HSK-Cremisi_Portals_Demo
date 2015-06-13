@@ -62,6 +62,7 @@ ShowArea=true
 [006]
 # Cava Eureka
 ShowArea=true
+WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
 [012]
 # Castello di Fénis
 ShowArea=true
@@ -100,21 +101,28 @@ WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
 [023]
 # Miniere Siderali
 WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
+[025]
+#Miniere Siderali
+WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
 [030]
 # Cava Eureka
 ShowArea=false
+WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
 [031]
 # Cava Eureka
 ShowArea=false
+WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
 [034]
 # Cava Eureka
 ShowArea=false
 [035]
 # Cava Eureka
 ShowArea=false
+WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
 [036]
 # Cava Eureka
 ShowArea=false
+WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
 [037]
 # Miniere Siderali
 DarkMap=true
