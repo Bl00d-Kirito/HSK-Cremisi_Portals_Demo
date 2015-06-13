@@ -1,0 +1,117 @@
+# Miniere Sideralia (19) - CASOH (44)
+19,West,0,44,East,12
+# Miniere Sideralia (19) - CASOH (45)
+19,North,0,45,South,16
+# Miniere Sideralia (19) - Crepaccio di Fysor (7)
+19,East,0,7,West,13
+# Miniere Sideralia (19) - CASOH (46)
+19,South,0,46,North,17
+########################################################
+# Miniere Sideralia (18) - CASOH (44)
+18,West,0,44,East,12
+# Miniere Sideralia (18) - CASOH (45)
+18,North,0,45,South,16
+# Miniere Sideralia (18) - Crepaccio di Fysor (7)
+18,East,0,7,West,13
+# Miniere Sideralia (18) - CASOH (46)
+18,South,0,46,North,17
+########################################################
+# Miniere Sideralia (21) - CASOH (44)
+21,West,0,44,East,12
+# Miniere Sideralia (21) - CASOH (45)
+21,North,0,45,South,16
+# Miniere Sideralia (21) - Crepaccio di Fysor (7)
+21,East,0,7,West,13
+# Miniere Sideralia (21) - CASOH (46)
+21,South,0,46,North,17
+########################################################
+# Miniere Sideralia (23) - CASOH (44)
+23,West,0,44,East,12
+# Miniere Sideralia (23) - CASOH (45)
+23,North,0,45,South,16
+# Miniere Sideralia (23) - Crepaccio di Fysor (7)
+23,East,0,7,West,13
+# Miniere Sideralia (23) - CASOH (46)
+23,South,0,46,North,17
+########################################################
+# Miniere Sideralia (24) - CASOH (44)
+24,West,0,44,East,12
+# Miniere Sideralia (24) - CASOH (45)
+24,North,0,45,South,16
+# Miniere Sideralia (24) - Crepaccio di Fysor (7)
+24,East,0,7,West,13
+# Miniere Sideralia (24) - CASOH (46)
+24,South,0,46,North,17
+########################################################
+# Miniere Sideralia (25) - CASOH (44)
+25,West,0,44,East,12
+# Miniere Sideralia (25) - CASOH (45)
+25,North,0,45,South,16
+# Miniere Sideralia (25) - Crepaccio di Fysor (7)
+25,East,0,7,West,13
+# Miniere Sideralia (25) - CASOH (46)
+25,South,0,46,North,17
+########################################################
+# Miniere Sideralia (37) - CASOH (44)
+37,West,0,44,East,12
+# Miniere Sideralia (37) - CASOH (45)
+37,North,0,45,South,16
+# Miniere Sideralia (37) - Crepaccio di Fysor (7)
+37,East,0,7,West,13
+# Miniere Sideralia (37) - CASOH (46)
+37,South,0,46,North,17
+########################################################
+# Miniere Sideralia (38) - CASOH (44)
+38,West,0,44,East,12
+# Miniere Sideralia (38) - CASOH (45)
+38,North,0,45,South,16
+# Miniere Sideralia (38) - Crepaccio di Fysor (7)
+38,East,0,7,West,13
+# Miniere Sideralia (38) - CASOH (46)
+38,South,0,46,North,17
+########################################################
+# Miniere Sideralia (20) - CASOH (44)
+20,West,0,44,East,14
+# Miniere Sideralia (20) - CASOH (45)
+20,North,0,45,South,15
+# Miniere Sideralia (20) - Crepaccio di Fysor (7)
+20,East,0,7,West,14
+# Miniere Sideralia (20) - CASOH (46)
+20,South,0,46,North,15
+########################################################
+# Miniere Sideralia (26) - CASOH (44)
+26,West,0,44,East,14
+# Miniere Sideralia (26) - CASOH (45)
+26,North,0,45,South,15
+# Miniere Sideralia (26) - Crepaccio di Fysor (7)
+26,East,0,7,West,14
+# Miniere Sideralia (26) - CASOH (46)
+26,South,0,46,North,15
+########################################################
+# Miniere Sideralia (39) - CASOH (44)
+39,West,0,44,East,14
+# Miniere Sideralia (39) - CASOH (45)
+39,North,0,45,South,15
+# Miniere Sideralia (39) - Crepaccio di Fysor (7)
+39,East,0,7,West,14
+# Miniere Sideralia (39) - CASOH (46)
+39,South,0,46,North,15
+########################################################
+# Miniere Sideralia (40) - CASOH (44)
+40,West,0,44,East,14
+# Miniere Sideralia (40) - CASOH (45)
+40,North,0,45,South,15
+# Miniere Sideralia (40) - Crepaccio di Fysor (7)
+40,East,0,7,West,14
+# Miniere Sideralia (40) - CASOH (46)
+40,South,0,46,North,15
+########################################################
+# Miniere Sideralia (41) - CASOH (44)
+41,West,0,44,East,14
+# Miniere Sideralia (41) - CASOH (45)
+41,North,0,45,South,15
+# Miniere Sideralia (41) - Crepaccio di Fysor (7)
+41,East,0,7,West,14
+# Miniere Sideralia (41) - CASOH (46)
+41,South,0,46,North,15
+########################################################

@@ -1,0 +1,142 @@
+﻿[000]
+PlayerAV=POKEMONTRAINER_Red,trcharBVM,boy_bike,boy_surf_offset,boy_runBVM,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerAK=POKEMONTRAINER_Red,trcharRNM,boy_bike,boy_surf_offset,boy_runRNM,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerW=POKEMONTRAINER_Red,trcharRAB,boy_bike,boy_surf_offset,boy_runRAB,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerL=POKEMONTRAINER_Red,trcharMVN,boy_bike,boy_surf_offset,boy_runMVN,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerA=POKEMONTRAINER_Red,trcharNNN,boy_bike,boy_surf_offset,boy_runNNN,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerAW=POKEMONTRAINER_Red,trcharGHO,boy_bike,boy_surf_offset,boy_runGHO,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerAL=POKEMONTRAINER_Red,trcharRRM,boy_bike,boy_surf_offset,boy_runRRM,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerAA=POKEMONTRAINER_Red,trcharMAB,boy_bike,boy_surf_offset,boy_runMAB,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerX=POKEMONTRAINER_Red,trcharRVB,boy_bike,boy_surf_offset,boy_runRVB,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerM=POKEMONTRAINER_Red,trcharBNN,boy_bike,boy_surf_offset,boy_runBNN,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerB=POKEMONTRAINER_Red,trcharNRN,boy_bike,boy_surf_offset,boy_runNRN,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerAM=POKEMONTRAINER_Red,trcharRAM,boy_bike,boy_surf_offset,boy_runRAM,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerAB=POKEMONTRAINER_Red,trcharMVB,boy_bike,boy_surf_offset,boy_runMVB,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerY=POKEMONTRAINER_Red,trcharMNB,boy_bike,boy_surf_offset,boy_runMNB,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerN=POKEMONTRAINER_Red,trcharBRN,boy_bike,boy_surf_offset,boy_runBRN,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerC=POKEMONTRAINER_Red,trcharNAN,boy_bike,boy_surf_offset,boy_runNAN,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerAN=POKEMONTRAINER_Red,trcharRVM,boy_bike,boy_surf_offset,boy_runRVM,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerAC=POKEMONTRAINER_Red,trcharBNB,boy_bike,boy_surf_offset,boy_runBNB,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerZ=POKEMONTRAINER_Red,trcharMRB,boy_bike,boy_surf_offset,boy_runMRB,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerO=POKEMONTRAINER_Red,trcharBAN,boy_bike,boy_surf_offset,boy_runBAN,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerD=POKEMONTRAINER_Red,trcharNVN,boy_bike,boy_surf_offset,boy_runNVN,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerAO=POKEMONTRAINER_Red,trcharMNM,boy_bike,boy_surf_offset,boy_runMNM,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerAD=POKEMONTRAINER_Red,trcharBRB,boy_bike,boy_surf_offset,boy_runBRB,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerP=POKEMONTRAINER_Red,trcharBVN,boy_bike,boy_surf_offset,boy_runBVN,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerE=POKEMONTRAINER_Red,trcharRNN,boy_bike,boy_surf_offset,boy_runRNN,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerAP=POKEMONTRAINER_Red,trcharMRM,boy_bike,boy_surf_offset,boy_runMRM,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerAE=POKEMONTRAINER_Red,trcharBAB,boy_bike,boy_surf_offset,boy_runBAB,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerQ=POKEMONTRAINER_Red,trcharNNB,boy_bike,boy_surf_offset,boy_runNNB,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerF=POKEMONTRAINER_Red,trcharRRN,boy_bike,boy_surf_offset,boy_runRRN,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+TrainerBattleBGM=005-Boss01.mid
+PlayerAQ=POKEMONTRAINER_Red,trcharMAM,boy_bike,boy_surf_offset,boy_runMAM,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerAF=POKEMONTRAINER_Red,trcharBVB,boy_bike,boy_surf_offset,boy_runBVB,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerR=POKEMONTRAINER_Red,trcharNRB,boy_bike,boy_surf_offset,boy_runNRB,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerG=POKEMONTRAINER_Red,trcharRAN,boy_bike,boy_surf_offset,boy_runRAN,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerAR=POKEMONTRAINER_Red,trcharMVM,boy_bike,boy_surf_offset,boy_runMVM,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerAG=POKEMONTRAINER_Red,trcharNNM,boy_bike,boy_surf_offset,boy_runNNM,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerS=POKEMONTRAINER_Red,trcharNAB,boy_bike,boy_surf_offset,boy_runNAB,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerH=POKEMONTRAINER_Red,trcharRVN,boy_bike,boy_surf_offset,boy_runRVN,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+SurfBGM=Ship.mid
+PlayerAS=POKEMONTRAINER_Red,trcharBNM,boy_bike,boy_surf_offset,boy_runBNM,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerAH=POKEMONTRAINER_Red,trcharNRM,boy_bike,boy_surf_offset,boy_runNRM,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerT=POKEMONTRAINER_Red,trcharNVB,boy_bike,boy_surf_offset,boy_runNVB,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerI=POKEMONTRAINER_Red,trcharMNN,boy_bike,boy_surf_offset,boy_runMNN,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerAT=POKEMONTRAINER_Red,trcharBRM,boy_bike,boy_surf_offset,boy_runBRM,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerAI=POKEMONTRAINER_Red,trcharNAM,boy_bike,boy_surf_offset,boy_runNAM,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerU=POKEMONTRAINER_Red,trcharRNB,boy_bike,boy_surf_offset,boy_runRNB,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerJ=POKEMONTRAINER_Red,trcharMRN,boy_bike,boy_surf_offset,boy_runMRN,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+BicycleBGM=Airship.mid
+Home=22,2,5,8
+PlayerAU=POKEMONTRAINER_Red,trcharBAM,boy_bike,boy_surf_offset,boy_runBAM,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerAJ=POKEMONTRAINER_Red,trcharNVM,boy_bike,boy_surf_offset,boy_runNVM,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerV=POKEMONTRAINER_Red,trcharRRB,boy_bike,boy_surf_offset,boy_runRRB,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerK=POKEMONTRAINER_Red,trcharMAN,boy_bike,boy_surf_offset,boy_runMAN,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+WildBattleBGM=Placeholder-Wild.ogg
+[001]
+# Intro
+[002]
+# Sinforia
+Outdoor=false
+ShowArea=true
+[006]
+# Cava Eureka
+ShowArea=true
+[012]
+# Castello di Fénis
+ShowArea=true
+[013]
+# Castello di Fénis
+ShowArea=false
+[015]
+# Castello di Fénis
+Outdoor=false
+ShowArea=false
+[016]
+# Castello di Fénis
+[018]
+# Miniere Siderali
+DarkMap=false
+ShowArea=true
+WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
+[019]
+# Miniere Siderali
+WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
+[020]
+# Miniere Siderali
+WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
+[021]
+# Miniere Siderali
+WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
+[023]
+# Miniere Siderali
+WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
+[024]
+# Miniere Siderali
+WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
+[026]
+# Miniere Siderali
+WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
+[023]
+# Miniere Siderali
+WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
+[030]
+# Cava Eureka
+ShowArea=false
+[031]
+# Cava Eureka
+ShowArea=false
+[034]
+# Cava Eureka
+ShowArea=false
+[035]
+# Cava Eureka
+ShowArea=false
+[036]
+# Cava Eureka
+ShowArea=false
+[037]
+# Miniere Siderali
+DarkMap=true
+WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
+[038]
+# Miniere Siderali
+DarkMap=true
+WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
+[039]
+# Miniere Siderali
+DarkMap=true
+WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
+[040]
+# Miniere Siderali
+DarkMap=true
+WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
+[041]
+# Miniere Siderali
+DarkMap=true
+ShowArea=true
+WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
+[049]
+# Sinforia
+Outdoor=false
+ShowArea=true
