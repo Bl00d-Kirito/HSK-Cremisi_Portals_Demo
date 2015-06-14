@@ -116,6 +116,7 @@ WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
 [034]
 # Cava Eureka
 ShowArea=false
+WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
 [035]
 # Cava Eureka
 ShowArea=false
