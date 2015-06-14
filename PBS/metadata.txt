@@ -52,6 +52,7 @@ PlayerAU=POKEMONTRAINER_Red,trcharBAM,boy_bike,boy_surf_offset,boy_runBAM,boy_di
 PlayerAJ=POKEMONTRAINER_Red,trcharNVM,boy_bike,boy_surf_offset,boy_runNVM,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
 PlayerV=POKEMONTRAINER_Red,trcharRRB,boy_bike,boy_surf_offset,boy_runRRB,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
 PlayerK=POKEMONTRAINER_Red,trcharMAN,boy_bike,boy_surf_offset,boy_runMAN,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerAX=POKEMONTRAINER_Red,trcharHSK,boy_bike,boy_surf_offset,boy_runHSK,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
 WildBattleBGM=Placeholder-Wild.ogg
 [001]
 # Intro
