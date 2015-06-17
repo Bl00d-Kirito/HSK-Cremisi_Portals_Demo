@@ -1,7 +1,7 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 0,POKEMONTRAINER_Red,Pokémon Trainer,60,,,,Male,
 1,PRINCIPESSA,Principessa,70,SEQ_BGM_BAR_PHOSEKI,,,Female,255
-2,COMANDANTE_WIRE,Comandante Wire,77,SEG:BGM_BAT_TWAKUMU,,,Female,255
+2,COMANDANTE_WIRE,Comandante Wire,77,SEG_BGM_BAT_TWAKUMU,,,Female,255
 3,UOMO_MISTERIOSO,Uomo Misterioso,30,SEQ_BGM_R_LCRTIUS,,,Male,255
 4,RECLUTA_WIRE_M,Recluta Wire,10,SEQ_BGM_BAT_TWGRUNT,,,Male,255
 5,RECLUTA_WIRE_F,Recluta Wire,10,SEQ_BGM_BAT_TWGRUNT,,,Female,255
