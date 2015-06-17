@@ -17,4 +17,6 @@ Cordiali Saluti, il creatore, Bl00d-Kirito.
 
 ###################################################################################################
 
-Vuoi giocare? E' semplice, avvia il Game.exe, e dai il via allo spettacolo! 
+
+
+Vuoi giocare? E' semplice, innanzitutto installa i Font presenti nella cartella Font, poi, avvia il Game.exe, e dai il via allo spettacolo! 
