@@ -150,3 +150,9 @@ WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
 # Sinforia
 Outdoor=false
 ShowArea=true
+[050]
+# Miniere Siderali
+WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
+[051]
+# Miniere Siderali
+WildBattleBGM=SEQ_BGM_BAR_WILDPOK.ogg
