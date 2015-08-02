@@ -227,7 +227,7 @@
 227,ICEHEAL,Ice Heal,2,250,A spray-type medicine. It defrosts a Pokémon that has been frozen solid.,1,1,0,
 228,FULLHEAL,Full Heal,2,600,A spray-type medicine. It heals all the status problems of a single Pokémon.,1,1,0,
 229,LAVACOOKIE,Lava Cookie,2,200,Lavaridge Town's local specialty. It heals all the status problems of one Pokémon.,1,1,0,
-230,OLDGATEAU,Old Gateau,8,0,Antica specialità dell Antico Chateau. Utilizzato per curare tutti i problemi di stato da un singolo pokemon.,0,0,6,
+230,OLDGATEAU,Old Gateau,8,0,Antica specialità dell Antico Chateau. Utilizzato per curare tutti i problemi di stato da un singolo Pokémon.,0,0,6,
 231,CASTELIACONE,Casteliacone,2,100,"Castelia City's specialty, soft-serve ice cream. It heals all the status problems of a single Pokémon.",1,1,0,
 232,REVIVE,Revive,2,1500,A medicine that revives a fainted Pokémon. It restores half the Pokémon's maximum HP.,1,1,0,
 233,MAXREVIVE,Max Revive,2,4000,A medicine that revives a fainted Pokémon. It fully restores the Pokémon's HP.,1,1,0,
@@ -540,7 +540,7 @@
 540,SHARPEDONITE,Sharpedonite,1,1000,"One of the mysterious Mega Stones. Have Sharpedo hold it, and this stone will enable it to Mega Evolve in battle.",0,0,0,
 541,SCEPTILITE,Sceptilite,1,1000,"One of the mysterious Mega Stones. Have Sceptile hold it, and this stone will enable it to Mega Evolve in battle.",0,0,0,
 542,BANETTITE,Banettite,1,1000,"One of the mysterious Mega Stones. Have Banette hold it, and this stone will enable it to Mega Evolve in battle.",0,0,0,
-543,EXPLORERKIT,Kit da Miniera,8,0,"Kit da miniera,permette di scavare in alcune spaccature formate in alcune rocce.",2,0,6,
+543,EXPLORERKIT,Kit da Miniera,8,0,"Kit da miniera, permette di scavare in alcune spaccature formate in alcune rocce.",2,0,6,
 544,AUDINITE,Audinite,1,1000,"One of the mysterious Mega Stones. Have Audino hold it, and this stone will enable it to Mega Evolve in battle.",0,0,0,
 545,MEDICHAMITE,Medichamite,1,1000,"One of the mysterious Mega Stones. Have Medicham hold it, and this stone will enable it to Mega Evolve in battle.",0,0,0,
 546,ALTARIANITE,Altarianite,1,1000,"One of the mysterious Mega Stones. Have Altaria hold it, and this stone will enable it to Mega Evolve in battle.",0,0,0,
@@ -594,5 +594,5 @@
 594,MARANGABERRY,Maranga Berry,5,20,"If held by a Pokémon, this Berry will increase the Pokémon's Special Defense stat when hit by a special attack.",0,0,5,
 595,SNOWBALL,Snowball,1,200,"An item to be held by a Pokémon. It boosts Attack if hit with an Ice-type attack. It can only be used once.",0,0,0,
 596,SAFETYGOGGLES,Safety Goggles,1,1000,"An item to be held by a Pokémon. These goggles protect the holder from both weather-related damage and powder.",0,0,0,
-597,HOSPITALPASS,Pass Ospedale,8,0,"Uno strano pass che permette di accedere alle porte elettroniche del Sanatorium",2,0,6
+597,HOSPITALPASS,Pass Ospedale,8,0,"Uno strano pass che permette di accedere alle porte elettroniche del Sanatorium.",2,0,6
 598,SOLFATO,Solfato,8,0,"Del Solfato di Magnesio, utilizzato spesso in campo medicinale.",2,0,6
