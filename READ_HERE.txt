@@ -17,10 +17,10 @@ Team Wire Building: Talk with Commander Akumu at third floor. Akumu will tell yo
 Fénis Castle: Go to the second floor, and show the butler your pendant, then you can find the princess Hoseki in her room. She will be surprised by your arrival and she seems to remember you. She tells you about the pendant, the Cremispirto, which used to be the mark of the Guardians of the Yggdrasil, a sacred tree, and that you had a companion which disappeared at the time of the awakening. At the end Hoseki suggest you not to trust Team Wire, and especially Akumu.
 ---> Go back to Akumu
 
-Team Wire Building: Akumu welcomes you to Team Wire. She gives you the Team Wire Membership Card, a Bag with Potions and Poké Balls, and a Growlithe, which will not gain experience. Then she tells you to talk with the Grunt at the end of the cart rail, on the left. You will be accompanied to the Sidereal Mines.
+Team Wire Building: Akumu welcomes you to Team Wire. She gives you the Team Wire Membership Card, a Bag with Potions and Poké Balls, and a Growlithe, which will not gain experience. Then she tells you to talk with the Grunt at the end of the cart rail, on the left. You will be accompanied to the Sideral Mines.
 ---> Go talk to the Grunt
 
-Sidereal Mines: Your task is to dig out treasures from the walls (Press CTRl to switch tool, and ESC and exit). You don't have to dig out all of the digging points, but the more you dig, the more Pokémoney you will be given at the end of the mission. Exploring the depths of the mines, you will find a red room and a white room. Each of them will contain a starter: either Saddle or Regchar. Once you picked your starter, go back to the beginning and you will be given your reward.
+Sideral Mines: Your task is to dig out treasures from the walls (Press CTRl to switch tool, and ESC and exit). You don't have to dig out all of the digging points, but the more you dig, the more Pokémoney you will be given at the end of the mission. Exploring the depths of the mines, you will find a red room and a white room. Each of them will contain a starter: either Saddle or Regchar. Once you picked your starter, go back to the beginning and you will be given your reward.
 ---> Go back to Akumu
 
 Team Wire Building: Akumu's younger brother Kyoh is introduced. He's happy he found someone with his same age, and to be friends with. He tells Akumu that time has come, and that he is going to give a speech to the population of Sinforia about his amazing discovery. Akumu takes her Growlithe back.
@@ -53,11 +53,11 @@ As you exit the room, a shiny Chansey will appear.
 Enter the room, and get the Magnesium sulfate.
 ---> Go back to the ground floor, and use the Hospital Room to open the magnetic room at the reception.
 
-Hospital Closet: You will encounter the ghost of Sinforia Hospital, who will ramble about a man who is hiding in the Sidereal Mines, and she will then ask you to throw the sulfate on the floor, otherwise you will have to battle her shiny Chansey.
+Hospital Closet: You will encounter the ghost of Sinforia Hospital, who will ramble about a man who is hiding in the Sideral Mines, and she will then ask you to throw the sulfate on the floor, otherwise you will have to battle her shiny Chansey.
 ---> When you are done, go back to Akumu
 
 Team Wire Building: Akumu will tell you about the story of the spirit, that of a nurse who committed suicide in the Sinforia Hospital after killing a woman due to a wrong dose of Magnesium sulfate. You are now given access to the Wardrobe on the middle floor of the Wire Building, thanks to which you can change your outfit. You can find two bonus outfits in Hoseki's room and in the Hospital closet. Akumu will then challenge you to a battle, if you like, and she can be rematched.
----> If you beat Akumu, an extra content will be avaible. Go in the roulotte behind Sinforia Hospital and interact with the PC. A bonus room will open in Sidereal Mines.
+---> If you beat Akumu, an extra content will be avaible. Go in the roulotte behind Sinforia Hospital and interact with the PC. A bonus room will open in Sideral Mines.
 
-Sidereal Mines: in the bonus room, you will hear the words you heard in the intro. At the end of the corridor, you'll face the bard Lucretius, who will advice you to mistust everything, either Akumu, either Hoseki, either Kyoh, either your entire world and existence. 
+Sideral Mines: in the bonus room, you will hear the words you heard in the intro. At the end of the corridor, you'll face the bard Lucretius, who will advice you to mistust everything, either Akumu, either Hoseki, either Kyoh, either your entire world and existence. 
 ---> If you beat Lucretius, you will fully complete the Demo! Hope you enjoyed!
