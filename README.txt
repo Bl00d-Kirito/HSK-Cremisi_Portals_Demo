@@ -1,0 +1,63 @@
+README
+
+
+GENERAL PLOT: However, welcome to the Fysor region! This is quite a strange land, as due to a mountain range dividing it into two different sections, half of it suffers harsh temperatures, while the other benefits from gentle breezes and sun. This separation has influenced the people which had settled in the region: as such, they ended up divided into two tribes, Kaori and Akahi. Not much time had passed before the two of them waged each other war, due to a certain betrayal committed by a girl. Nevertheless, tragedy was avoided, thanks to an alliance between a Hero and a legendary pokémon. Of that event we have only one last proof: a sacred tree called Yggrasil, which was born from the ashes of the two. And so, every year Fysor's princess elects a young boy and a girl to guard the sacred tree, in order not for its true power to be unleashed, by giving each of them a precious pendant, the Cremispirto or else the Cremisalma.
+
+The main character has escaped from a tragic event which had condemned the Fysor region five year before, and now he finds himself in a society which he doesn't belong anymore to: humans and pokémon live underground, in the city of Sinforia. Running the new civilization is Team Wire's job, which organizes expeditions hoping to find new aquifers and ancient artifacts. One day, though, one of the members of the team, which besides proves to be really friendly towards the player, finds a crimson portal which, according to him, would be able to travel back in time: and so, the main character and the survivors of Sinforia decide to make the great step... but will they really experience a time travel?
+
+
+- START GAME:
+
+Sinforia Hospital: You find yourself in an hospital, and you find out you were rescued by a friend of the nurse, and she wanted to see you. You have no memories of your past.
+--> Go to Team Wire Building
+
+Team Wire Building: Talk with Commander Akumu at third floor. Akumu will tell you about in which conditions you were found near Dieresia Dam and how she built and manages the underground town of Sinforia. It seems that five years ago the Legendary Pokèmon Yveltal was awakened and it began destroying everything. She notices your Pendant and suggest you go talk with the princess of Fénis.
+---> Go to the Elevator, which leads to Fénis Castle.
+
+Fénis Castle: Go to the second floor, and show the butler your pendant, then you can find the princess Hoseki in her room. She will be surprised by your arrival and she seems to remember you. She tells you about the pendant, the Cremispirto, which used to be the mark of the Guardians of the Yggdrasil, a sacred tree, and that you had a companion which disappeared at the time of the awakening. At the end Hoseki suggest you not to trust Team Wire, and especially Akumu.
+---> Go back to Akumu
+
+Team Wire Building: Akumu welcomes you to Team Wire. She gives you the Team Wire Membership Card, a Bag with Potions and Poké Balls, and a Growlithe, which will not gain experience. Then she tells you to talk with the Grunt at the end of the cart rail, on the left. You will be accompanied to the Sidereal Mines.
+---> Go talk to the Grunt
+
+Sidereal Mines: Your task is to dig out treasures from the walls (Press CTRl to switch tool, and ESC and exit). You don't have to dig out all of the digging points, but the more you dig, the more Pokémoney you will be given at the end of the mission. Exploring the depths of the mines, you will find a red room and a white room. Each of them will contain a starter: either Saddle or Regchar. Once you picked your starter, go back to the beginning and you will be given your reward.
+---> Go back to Akumu
+
+Team Wire Building: Akumu's younger brother Kyoh is introduced. He's happy he found someone with his same age, and to be friends with. He tells Akumu that time has come, and that he is going to give a speech to the population of Sinforia about his amazing discovery. Akumu takes her Growlithe back.
+---> Go under Sinforia bridge and talk with the nurse
+
+Sinforia: Kyoh talks about how Sinforia is a golden cage, oppressed by the Legendary Yveltal. Then he proceeds to talk about his amazing discovery: a crimson-colored portal which, according to him, would let people go back in time. He proposes to the survivors of Sinforia to reach Eureka Cave, where the final step will be taken.
+---> Go talk to the Grunt at the end of cart rail, on the right, this time
+
+Eureka Cave: You will meet Hoseki, who think Team Wire must be stopped, because they could damage the fabric of spacetime. She then declares she will stop the survivors of Sinforia, while you go talk with Kyoh at the end of the corridor. You must solve some riddles on the way: first one, "Kalliergo", second one, "Arcontis", third one, "Oikiade", fourth one, "Limneide" (these are all names of the cities you will visit in the future). The last one is "Diffida di Fysor" (Distrust Fysor). Then Kyoh will give his final speech, and he will make the portal appear out of nowhere. 
+Hoseki interrupts the speech, warning the people about the danger Kyoh is putting them into, and you are forced to make a choice: will you trust Kyoh, and enter the portals, to get back the memories of your past, or will you trust Hoseki, and stop Team Wire's plans? Depending on the choice you make, the ending will be different.
+
+THE MAIN PLOT ENDS HERE
+
+
+POSTGAME CONTENT:
+
+Sinforia Hospital: At the end, Kyoh entered the portal, and Hoseki prevented anyone from following him.
+---> Go talk to Akumu
+
+Team Wire Building: Akumu will be informed about the events at Eureka Cave, and she declares she will do something about it. In the meanwhile, she asks you to investigate about the strange happenings in Sinforia Hospital, which seems to be haunted.
+---> Go talk to the nurse in your room
+
+Sinforia Hospital: The nurse doesn't know anything about the ghost. If you want to investigate, she can give you the Hospital Pass, but she needs an Old Gateau in exchange.
+---> Go talk to the man in front of the TV at the ground floor
+
+The man will give you the Old Gateau.
+---> Go back to the nurse and get the Hospital Pass
+As you exit the room, a shiny Chansey will appear. 
+---> Follow in in the other side of the hospital, and enter the room the Chansey is staring at.
+Enter the room, and get the Magnesium sulfate.
+---> Go back to the ground floor, and use the Hospital Room to open the magnetic room at the reception.
+
+Hospital Closet: You will encounter the ghost of Sinforia Hospital, who will ramble about a man who is hiding in the Sidereal Mines, and she will then ask you to throw the sulfate on the floor, otherwise you will have to battle her shiny Chansey.
+---> When you are done, go back to Akumu
+
+Team Wire Building: Akumu will tell you about the story of the spirit, that of a nurse who committed suicide in the Sinforia Hospital after killing a woman due to a wrong dose of Magnesium sulfate. You are now given access to the Wardrobe on the middle floor of the Wire Building, thanks to which you can change your outfit. You can find two bonus outfits in Hoseki's room and in the Hospital closet. Akumu will then challenge you to a battle, if you like, and she can be rematched.
+---> If you beat Akumu, an extra content will be avaible. Go in the roulotte behind Sinforia Hospital and interact with the PC. A bonus room will open in Sidereal Mines.
+
+Sidereal Mines: in the bonus room, you will hear the words you heard in the intro. At the end of the corridor, you'll face the bard Lucretius, who will advice you to mistust everything, either Akumu, either Hoseki, either Kyoh, either your entire world and existence. 
+---> If you beat Lucretius, you will fully complete the Demo! Hope you enjoyed!
