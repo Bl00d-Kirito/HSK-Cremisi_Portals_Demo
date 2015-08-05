@@ -32,19 +32,25 @@ Sinforia: Kyoh talks about how Sinforia is a golden cage, oppressed by the Legen
 Eureka Cave: You will meet Hoseki, who think Team Wire must be stopped, because they could damage the fabric of spacetime. She then declares she will stop the survivors of Sinforia, while you go talk with Kyoh at the end of the corridor. You must solve some riddles on the way: first one, "Kalliergo", second one, "Arcontis", third one, "Oikiade", fourth one, "Limneide" (these are all names of the cities you will visit in the future). The last one is "Diffida di Fysor" (Distrust Fysor). Then Kyoh will give his final speech, and he will make the portal appear out of nowhere. 
 Hoseki interrupts the speech, warning the people about the danger Kyoh is putting them into, and you are forced to make a choice: will you trust Kyoh, and enter the portals, to get back the memories of your past, or will you trust Hoseki, and stop Team Wire's plans? Depending on the choice you make, the ending will be different.
 
+
 THE MAIN PLOT ENDS HERE
+
 
 
 POSTGAME CONTENT:
 
+
 Sinforia Hospital: At the end, Kyoh entered the portal, and Hoseki prevented anyone from following him.
 ---> Go talk to Akumu
+
 
 Team Wire Building: Akumu will be informed about the events at Eureka Cave, and she declares she will do something about it. In the meanwhile, she asks you to investigate about the strange happenings in Sinforia Hospital, which seems to be haunted.
 ---> Go talk to the nurse in your room
 
+
 Sinforia Hospital: The nurse doesn't know anything about the ghost. If you want to investigate, she can give you the Hospital Pass, but she needs an Old Gateau in exchange.
 ---> Go talk to the man in front of the TV at the ground floor
+
 
 The man will give you the Old Gateau.
 ---> Go back to the nurse and get the Hospital Pass
@@ -53,11 +59,14 @@ As you exit the room, a shiny Chansey will appear.
 Enter the room, and get the Magnesium sulfate.
 ---> Go back to the ground floor, and use the Hospital Room to open the magnetic room at the reception.
 
+
 Hospital Closet: You will encounter the ghost of Sinforia Hospital, who will ramble about a man who is hiding in the Sideral Mines, and she will then ask you to throw the sulfate on the floor, otherwise you will have to battle her shiny Chansey.
 ---> When you are done, go back to Akumu
 
+
 Team Wire Building: Akumu will tell you about the story of the spirit, that of a nurse who committed suicide in the Sinforia Hospital after killing a woman due to a wrong dose of Magnesium sulfate. You are now given access to the Wardrobe on the middle floor of the Wire Building, thanks to which you can change your outfit. You can find two bonus outfits in Hoseki's room and in the Hospital closet. Akumu will then challenge you to a battle, if you like, and she can be rematched.
 ---> If you beat Akumu, an extra content will be avaible. Go in the roulotte behind Sinforia Hospital and interact with the PC. A bonus room will open in Sideral Mines.
+
 
 Sideral Mines: in the bonus room, you will hear the words you heard in the intro. At the end of the corridor, you'll face the bard Lucretius, who will advice you to mistust everything, either Akumu, either Hoseki, either Kyoh, either your entire world and existence. 
 ---> If you beat Lucretius, you will fully complete the Demo! Hope you enjoyed!
